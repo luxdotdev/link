@@ -7,8 +7,8 @@
   </a>
 </p>
 
-[![Website](https://img.shields.io/website?style=for-the-badge&labelColor=000&up_message=Operational&url=https%3A%2F%2Fdocs.parsertime.app)](https://parsertime.app)
-![GitHub Repo stars](https://img.shields.io/github/stars/luxdotdev/parsertime-docs?style=for-the-badge&labelColor=000)
+[![Website](https://img.shields.io/website?style=for-the-badge&labelColor=000&up_message=Operational&url=https%3A%2F%2Fparserti.me)](https://parserti.me)
+![GitHub Repo stars](https://img.shields.io/github/stars/luxdotdev/link?style=for-the-badge&labelColor=000)
 
 This is the repository for the lux.dev link service. It is built using [Next.js](https://nextjs.org) and hosted on [Vercel](https://vercel.com).
 
@@ -21,7 +21,7 @@ This is the repository for the lux.dev link service. It is built using [Next.js]
 
 First, run `pnpm i` to install the dependencies.
 
-Then, run `pnpm dev` to start the development server and visit [localhost:4321](http://localhost:4321).
+Then, run `pnpm dev` to start the development server and visit [localhost:3000](http://localhost:3000).
 
 ## License
 
