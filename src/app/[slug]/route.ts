@@ -14,7 +14,7 @@ export async function GET(req: NextRequest) {
   });
 
   if (!url) {
-    return NextResponse.redirect("https://parsertime.app/404", { status: 302 });
+    return NextResponse.redirect("https://parsertime.app/404", { status: 404 });
   }
 
   return NextResponse.redirect(url, { status: 302 });
