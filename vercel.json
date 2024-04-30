@@ -12,6 +12,10 @@
     {
       "source": "/github",
       "destination": "https://github.com/luxdotdev"
+    },
+    {
+      "source": "/help",
+      "destination": "https://parsertime.app/contact"
     }
   ]
 }
