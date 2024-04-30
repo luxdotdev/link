@@ -4,6 +4,10 @@
     {
       "source": "/discord",
       "destination": "https://discord.gg/svz3qhVDXM"
+    },
+    {
+      "source": "/docs",
+      "destination": "https://docs.parsertime.app"
     }
   ]
 }
