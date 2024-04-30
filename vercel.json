@@ -8,6 +8,10 @@
     {
       "source": "/docs",
       "destination": "https://docs.parsertime.app"
+    },
+    {
+      "source": "/github",
+      "destination": "https://github.com/luxdotdev"
     }
   ]
 }
