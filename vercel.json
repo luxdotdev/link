@@ -16,6 +16,10 @@
     {
       "source": "/help",
       "destination": "https://parsertime.app/contact"
+    },
+    {
+      "source": "/feedback",
+      "destination": "https://forms.gle/H6MYFTSTMFpAzApn8"
     }
   ]
 }
