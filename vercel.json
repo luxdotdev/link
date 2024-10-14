@@ -20,6 +20,10 @@
     {
       "source": "/feedback",
       "destination": "https://forms.gle/H6MYFTSTMFpAzApn8"
+    },
+    {
+      "source": "/schema",
+      "destination": "https://docs.google.com/spreadsheets/u/0/d/e/2PACX-1vTVvo1snE7irK2NLtWe3Xjk_1fGt97DGQNRyERVeai-6SeeeCPYw8fSRAa6vatwae-mQ0WDPQuq-q2-/pubhtml"
     }
   ]
 }
